@@ -2,7 +2,7 @@
     <main class="w-100 d-flex flex-column flex-xl-row">
         <ArtworkPoster text="Traditional" :src="TraditionalPoster" alt="Traditional Artwork" path="/artwork/traditional" />
         <ArtworkPoster text="Digital" :src="DigitalPoster" alt="Digital Artwork" path="/artwork/digital" />
-        <ArtworkPoster text="Comics" :src="ComicsPoster" alt="Comics" path="/artwork/comics" />
+<!--        <ArtworkPoster text="Comics" :src="ComicsPoster" alt="Comics" path="/artwork/comics" />-->
         <ArtworkPoster text="Animation" :src="AnimationsPoster" alt="Animations" path="/artwork/animations" />
     </main>
 </template>
